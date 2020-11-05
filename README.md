@@ -1,2 +1,3 @@
 # hannahjzhang.github.io
-exploration with github pages
+- Exploration with github pages. <br>
+- Be on the lookout for future updates!
